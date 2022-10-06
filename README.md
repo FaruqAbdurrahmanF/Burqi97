@@ -1,1 +1,1 @@
-# Burqi97
+# Churn (EDA and ML)
