@@ -76,6 +76,6 @@ https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/code
 
 ## Recommendation
 - Of the 4 models made obtained:
-The highest f1 score value using the Random Forest model with a combination of oversampling and undersampling, with oversampling coefficients of 0.4 and undersampling of 0.7
-The highest Precision value using the Random Forest model with a combination of Oversampling and Undersampling, with oversampling coefficients of 0.3 and undersampling of 0.3
-The highest recall value using the Random Forest model with a combination of oversampling and undersampling, with oversampling coefficients of 0.3 and undersampling of 0.1
+- The highest f1 score value using the Random Forest model with a combination of oversampling and undersampling, with oversampling coefficients of 0.4 and undersampling of 0.7
+- The highest Precision value using the Random Forest model with a combination of Oversampling and Undersampling, with oversampling coefficients of 0.3 and undersampling of 0.3
+- The highest recall value using the Random Forest model with a combination of oversampling and undersampling, with oversampling coefficients of 0.3 and undersampling of 0.1
